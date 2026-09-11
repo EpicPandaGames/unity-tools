@@ -1,0 +1,16 @@
+{
+  "name": "EpicPandaGames.FirebaseUpdater.Editor",
+  "rootNamespace": "EpicPandaGames.UnityTools.FirebaseUpdater",
+  "references": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
