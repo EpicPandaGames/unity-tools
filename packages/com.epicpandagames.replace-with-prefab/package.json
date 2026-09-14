@@ -1,0 +1,1 @@
+{"name":"com.epicpandagames.replace-with-prefab","version":"1.0.0","displayName":"EPG Replace With Prefab","description":"Replace selected scene GameObjects with a prefab while preserving transforms and names.","unity":"2022.3","author":{"name":"Epic Panda Games"}}
