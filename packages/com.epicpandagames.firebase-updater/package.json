@@ -1,6 +1,6 @@
 {
   "name": "com.epicpandagames.firebase-updater",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Epic Panda Games Firebase Updater",
   "description": "Editor tooling for inspecting and cleanly updating an Assets-based Firebase Unity SDK installation from an official SDK ZIP.",
   "unity": "2022.3",

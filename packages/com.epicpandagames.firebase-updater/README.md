@@ -23,7 +23,7 @@ Open it from `Tools > Epic Panda Games > Firebase Updater`.
 Add the package to the consuming project's `Packages/manifest.json` using a release tag:
 
 ```json
-"com.epicpandagames.firebase-updater": "https://github.com/EpicPandaGames/unity-tools.git?path=/packages/com.epicpandagames.firebase-updater#firebase-updater-v0.1.0"
+"com.epicpandagames.firebase-updater": "https://github.com/EpicPandaGames/unity-tools.git?path=/packages/com.epicpandagames.firebase-updater#firebase-updater-v0.1.1"
 ```
 
 The repository is private. Configure Git authentication on the developer machine or CI runner; do not put credentials in the manifest.

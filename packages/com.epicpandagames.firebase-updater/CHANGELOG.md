@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Add missing metadata for immutable UPM package files and folders.
+
 ## 0.1.0 - 2026-09-11
 
 - Initial private release.

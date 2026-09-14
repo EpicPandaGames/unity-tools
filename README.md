@@ -6,7 +6,7 @@ Private Unity Package Manager packages shared by Epic Panda Games projects.
 
 | Package | Description | Current version |
 | --- | --- | --- |
-| `com.epicpandagames.firebase-updater` | Inspect, validate, and cleanly update the Firebase Unity SDK from an official SDK ZIP. | `0.1.0` |
+| `com.epicpandagames.firebase-updater` | Inspect, validate, and cleanly update the Firebase Unity SDK from an official SDK ZIP. | `0.1.1` |
 | `com.epicpandagames.bulk-rename-files` | Sequentially rename files in a project folder. | `1.0.0` |
 | `com.epicpandagames.bulk-rename-folders` | Sequentially rename child folders and optionally their textures. | `1.0.0` |
 | `com.epicpandagames.rename-selected-gameobjects` | Rename selected scene GameObjects with Undo support. | `1.0.0` |
